@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working with Python 
-- 🌱 I’m currently learning Unity with C#
-- ⚡ Fun fact: All my tattoos are about games
+- 🔭 I am currently working with an internship in infrastructure
+- 🌱 I am currently learning FullStack Developer and Systems Analysis and Development
+- ⚡ Fun fact: My wife says I'm a walking encyclopedia
 
 <div align="center">
   <a href="https://github.com/Luanlrc">
