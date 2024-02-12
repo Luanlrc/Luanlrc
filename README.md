@@ -2,12 +2,12 @@
 
 
 - 🔭 I am currently working as an Analyst in Infrastructure, Networks and Development
-- 🌱 I am a FullStack Javascript Developer with knowledge in:
-FullStack development in JavaScript
-Flask Framework for web development
-Django REST Framework
-Python programming language
-Experience with RaspBerry PI
+- 🌱 I am a FullStack Javascript Developer with knowledge in:<br>
+FullStack development in JavaScript<br>
+Flask Framework for web development<br>
+Django REST Framework<br>
+Python programming language<br>
+Experience with RaspBerry PI<br>
 
 - ⚡ Fun fact: my wife says I'm a walking encyclopedia
 
