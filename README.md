@@ -1,9 +1,15 @@
 ### Hi there 👋
 
 
-- 🔭 I am currently working with an internship in infrastructure
-- 🌱 I am currently learning FullStack Developer and Systems Analysis and Development
-- ⚡ Fun fact: My wife says I'm a walking encyclopedia
+- 🔭 I am currently working as an Analyst in Infrastructure, Networks and Development
+- 🌱 I am a FullStack Javascript Developer with knowledge in:
+FullStack development in JavaScript
+Flask Framework for web development
+Django REST Framework
+Python programming language
+Experience with RaspBerry PI
+
+- ⚡ Fun fact: my wife says I'm a walking encyclopedia
 
 <div align="center">
   <a href="https://github.com/Luanlrc">
