@@ -1,39 +1,48 @@
-### Hi there 👋
+<h1 align="center">Luan Cordeiro 👨‍💻</h1>
+<p align="center">
+  Desenvolvedor Full Stack | Python & JavaScript | DevOps & Automações com IA
+</p>
 
+---
 
-- 🔭 I am currently working as an Analyst in Infrastructure, Networks and Development
-- 🌱 I am a FullStack Javascript Developer with knowledge in:<br>
-FullStack development in JavaScript<br>
-Flask Framework for web development<br>
-Django REST Framework<br>
-Python programming language<br>
-Experience with RaspBerry PI<br>
+### 🌎 Sobre mim
 
-- ⚡ Fun fact: my wife says I'm a walking encyclopedia
+Sou um desenvolvedor Full Stack focado em construir sistemas web escaláveis, APIs integradas e soluções inteligentes com IA generativa.  
+Atualmente, trabalho no Market4u desenvolvendo aplicações com Python (Flask), FastAPI, JavaScript e automações voltadas à experiência do usuário.
 
-<div align="center">
-  <a href="https://github.com/Luanlrc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luanlrc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luanlrc&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div align="center">
-<img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" />
-</div>
-<div style="display: inline_block"><br>
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+Sou movido por desafios reais, código limpo e evolução constante — tanto no técnico quanto no humano.
+
+---
+
+### 🔥 Tecnologias que eu uso
+
+<div style="display: inline_block">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/luan-cordeiroo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/luan_lluhh/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+---
+
+### 📈 Minha jornada
+
+```yaml
+2022:
+  - 🚀 Estágio com redes e suporte na Market4u
+  - 🛠️ Primeiro contato com Django, Raspberry PI e automações
+
+2023:
+  - 🧠 Infraestrutura + Dev + projetos internos na CITWay
+  - 🔍 Criação de automações com Flask e scripts personalizados
+
+2024:
+  - 👨‍💻 Transição pra desenvolvedor com foco em back-end Python e front-end JavaScript
+  - ⚙️ APIs REST, integração com sistemas, testes e boas práticas
+
+2025:
+  - 💼 Full Stack Developer no Market4u
+  - 🧪 TDD com Pytest | DevOps com Docker, Terraform, Ansible
+  - 🤖 Aplicação de IA generativa para automação de processos
