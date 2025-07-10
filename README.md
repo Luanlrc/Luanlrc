@@ -1,15 +1,25 @@
-### Hi there 👋
+### Hello there 👋
+I'm Luan Cordeiro, a Full Stack Developer passionate about creating scalable web applications, integrating systems, and delivering real solutions using Python, JavaScript, and generative AI.
 
+🚀 Currently working at Market4u, developing and maintaining APIs, automations, and internal platforms.
 
-- 🔭 I am currently working as an Analyst in Infrastructure, Networks and Development
-- 🌱 I am a FullStack Javascript Developer with knowledge in:<br>
-FullStack development in JavaScript<br>
-Flask Framework for web development<br>
-Django REST Framework<br>
-Python programming language<br>
-Experience with RaspBerry PI<br>
+🧠 Experienced with:
 
-- ⚡ Fun fact: my wife says I'm a walking encyclopedia
+Python (Flask, FastAPI, Django REST)
+
+JavaScript (Vanilla, Node, and Front-end with Bootstrap)
+
+Infrastructure tools like Docker, Ansible, Terraform
+
+DevOps practices and process automation
+
+📡 Also familiar with IoT projects using Raspberry Pi.
+
+🎯 Focused on code quality, performance, and clean architecture.
+
+👨‍💻 Always learning, always building.
+
+“I believe great software starts with understanding the problem, not the code.”
 
 <div align="center">
   <a href="https://github.com/Luanlrc">
